@@ -3,6 +3,8 @@
 This repository contains all versions of BlockAdBlock, from [BlockAdBlock.com](https://blockadblock.com/), fully reversed-engineered.
 See [this article](http://localhost:1313/article/re-bab/) for context.
 
+To look at each diff instead, see [this repository](https://github.com/xy2iii/bab-history).
+
 ## What's here?
 
 * `v1-reversed.js`, `v2-reversed.js`: each version of BlockAdBlock, reversed engineered.
