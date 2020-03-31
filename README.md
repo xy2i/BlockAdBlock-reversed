@@ -1,7 +1,7 @@
 # BlockAdBlock, reversed.
 
 This repository contains all versions of BlockAdBlock, from [BlockAdBlock.com](https://blockadblock.com/), fully reversed-engineered.
-See [this article](http://localhost:1313/article/re-bab/) for context.
+See [this article](https://xy2.dev/article/re-bab/) for context.
 
 To look at each diff instead, see [this repository](https://github.com/xy2iii/bab-history).
 
