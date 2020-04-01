@@ -1,4 +1,4 @@
-# BlockAdBlock, reversed.
+# 🚫 BlockAdBlock, reversed
 
 This repository contains all versions of BlockAdBlock, from [BlockAdBlock.com](https://blockadblock.com/), fully reversed-engineered.
 See [this article](https://xy2.dev/article/re-bab/) for context.
